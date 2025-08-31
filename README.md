@@ -66,3 +66,5 @@ This project demonstrated that predicting trial completion at the design stage i
 - Kowshik M
 - Moneesh B
 - Yoogesh Kumar M
+
+---
