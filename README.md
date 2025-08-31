@@ -59,3 +59,10 @@ The ensemble model achieved an AUC-ROC of 0.65, outperforming individual base mo
 This project demonstrated that predicting trial completion at the design stage is not only feasible but also valuable for improving trial planning. By combining structured and unstructured modeling, ensemble learning, and causal inference, the system delivered both predictive accuracy and actionable recommendations. In future iterations, the model can be strengthened by incorporating more granular data, such as investigator experience and molecule-level characteristics, and by integrating advanced LLMs with richer embeddings to improve text understanding. Additional enhancements could include real-time monitoring of ongoing trials, scenario-based recommendation tools, and prescriptive analytics to proactively adjust trial design. Together, these steps would enable a more robust and adaptive decision-support system for clinical research stakeholders.
 
 ---
+
+## Contributors
+- Anirudh A
+- Harsha P
+- Kowshik M
+- Moneesh B
+- Yoogesh Kumar M
